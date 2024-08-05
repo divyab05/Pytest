@@ -1,0 +1,21 @@
+# Framework
+pytest
+#pycmd
+polling
+pyautogui
+pywinauto
+#pytest-reportportal
+#pytest-rerunfailures
+pytest-html
+pytest-html-reporter
+pytest-order
+pytest-depends
+selenium
+webdriver_manager
+pyautogui
+AppOpener
+pytest_check
+
+# Data Driven
+openpyxl
+pyhamcrest
